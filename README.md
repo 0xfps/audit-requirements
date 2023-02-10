@@ -16,6 +16,7 @@
 - Unemitted logs.
 - Erroneous logs.
 - Ownership errors.
+- Missing statements.
 
 #### And
 <img src="https://github.com/0xfps/audit-requirements/blob/dev/star-wars.gif" width="1000px" height="600px" alt="Moreee!!!"/>
